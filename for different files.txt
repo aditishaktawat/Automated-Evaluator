@@ -1,0 +1,12 @@
+Data Set Used - Mainly 2
+AES ASAP dataset ( ASAP - Automated Student Assessment Prize ) from kaggle , this was mainly used for a competition held 12 years ago
+It consists of 13000 essays (student answers) with human score.
+
+And the second one we made for trying and checking cosine similarity matching and word movers distance for score prediction
+It consists of 9 student answers with ideal solutions for evaluation
+
+coding files
+for cosine and word movers distance - cosinewmd.ipynb   ( used the dataset made my own ) 
+for machine learning -
+linear reggresion , support vector machine and random forest - main.ipynb   ( used ASAP dataset )
+various different trials etc present can be deleted or can we used with proper dataset for good working. 

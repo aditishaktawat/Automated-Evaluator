@@ -1,0 +1,25 @@
+Standard Answer,Test Answer,wmd_score,actual_score
+"1. Privacy
+IoT devices are vulnerable to hacking. Many IoT devices collect personal information and some of them send this personal information across the network without any encryption. This information can be easily traced and read by hackers. Cloud endpoints could also be used by hackers to attack servers. 
+
+2. Web interface
+Simple default passwords pose a threat when it comes to the user web interface. The use of weak passwords on the web interface may enable hackers to easily identify accounts of users and misuse them. 
+
+Check out the Top Security Courses For IT Professionals
+
+3. Rogue IoT Devices
+Rogue IoT devices are just plain counterfeit malicious devices that are installed in secured networks without authorization. Some examples of rogue IoT devices are Raspberry Pi and WiFi Pineapple. A rogue device either replaces the original IoT device or appears as a member of a group to gather sensitive information. These devices break the network perimeter.
+
+4. Insufficient testing & Lack of updates
+The IoT market is fast-paced, which is why many companies or manufacturers are in a hurry to create and release their products and software without sufficiently testing them. Some of them also fail in providing timely software updates.
+
+Compared to other devices like smartphones, IoT devices continue to be used without the necessary updates, which can enable hackers to steal sensitive information. Thus, sufficient testing and timely updates are critical for maintaining security on IoT devices. They should be updated right after new vulnerabilities are identified. 
+
+5. Lack of user Knowledge & Awareness
+Since IoT is a new technology, people still do not know much about it. One of the biggest security threats related to IoT is the user’s lack of knowledge and awareness of the IoT functionality. This puts everybody at risk.","Privacy: Connected IoT devices are vulnerable to hacking. Many IoT devices collect and transmit personal data over an open network without encryption, making it easy for hackers to access. Hackers may also use cloud endpoints to attack servers.
+Insufficient testing & Outdated product: In a fast-paced market like IoT, many companies or manufacturers rush to start releasing their products and software without doing enough testing. Many of them don't provide timely updates as well. Unlike other devices such as smartphones, IoT devices are not updated, which can leave them vulnerable to data theft. Thus, IoT devices should be tested thoroughly and updated as soon as new vulnerabilities are identified in order to maintain security.
+Lack of knowledge and awareness: Despite being a growing technology, people do not know much about IoT. A major security threat associated with IoT is the user's lack of knowledge and awareness of its capabilities. This poses a threat to all users.
+Network Connectivity: Network connectivity can be challenging for many IoT devices. Particularly if such devices are widely dispersed, in remote locations, or if bandwidth is severely limited.
+Reliability: Given the highly distributed nature of IoT devices, it can be difficult to ensure the reliability of IoT systems. Various conditions can affect the components that make up an IoT system, such as natural disasters, disruptions in cloud services, power outages, and system failures.",[0.56242008],
+,,,
+,,,

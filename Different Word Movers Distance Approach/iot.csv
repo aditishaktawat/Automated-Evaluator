@@ -1,0 +1,128 @@
+﻿question,Standard_Answer,Test_Answer
+What are the fundamental components of IoT?,"Sensors/Devices: Sensors or devices are a key component that helps you to collect live data from the surrounding environment. All this data may have various levels of complexities. It could be a simple temperature monitoring sensor, or it may be in the form of the video feed.
+Connectivity: All the collected data is sent to a cloud infrastructure. The sensors should be connected to the cloud using various mediums of communications. These communication mediums include mobile or satellite networks, Bluetooth, WI-FI, WAN, etc.
+Data Processing: Once that data is collected, and it gets to the cloud, the software product performs processing on the gathered data. This process can be just checking the temperature, reading on devices like AC or heaters. However, it can sometimes also be very complex, like identifying objects, using computer vision on video.
+User Interface: The information needs to be available to the end-user in some way, which can be achieved by triggering alarms on their phones or sending them notification through email or text message. The user sometimes might need an interface which actively checks their IoT system.","Sensors: A sensor or device is an important component for gathering live data from the surrounding environment. The nature of this data can vary. This could be as simple as your phone having a temperature sensor, GPS, an accelerometer, or as complex as a live video feature on a social media platform. Sensors make it possible for IoT devices to connect to the real world and environment.
+Connectivity: Upon collection, all data is sent to a cloud infrastructure. This could be done by connecting the sensors to the cloud using a variety of communication mediums such as mobile or satellite networks, Bluetooth, WI-FI, WAN, etc. Various IoT devices use different types of connectivity.
+Data Processing: Once the data has been collected, and has reached the cloud, it is the responsibility of the data processors to process it. Data processing software can enhance IoT devices in a wide range of ways, from adjusting the temperature of the air conditioner to recognizing faces on mobile phones.
+User Interface: An IoT device interacts with a user through a User Interface. A user interface is the visible, tangible component of an IoT system that can be accessed by users. It involves presenting the information in a way that is valuable to the end-user. A well-designed user interface will simplify the experience for users and encourage them to interact more. Information needs to be made accessible to end-users in some way, like sending them alerts via notification, email or text message."
+What are the fundamental components of IoT?,"Sensors/Devices: Sensors or devices are a key component that helps you to collect live data from the surrounding environment. All this data may have various levels of complexities. It could be a simple temperature monitoring sensor, or it may be in the form of the video feed.
+Connectivity: All the collected data is sent to a cloud infrastructure. The sensors should be connected to the cloud using various mediums of communications. These communication mediums include mobile or satellite networks, Bluetooth, WI-FI, WAN, etc.
+Data Processing: Once that data is collected, and it gets to the cloud, the software product performs processing on the gathered data. This process can be just checking the temperature, reading on devices like AC or heaters. However, it can sometimes also be very complex, like identifying objects, using computer vision on video.
+User Interface: The information needs to be available to the end-user in some way, which can be achieved by triggering alarms on their phones or sending them notification through email or text message. The user sometimes might need an interface which actively checks their IoT system.","Things or Device 
+These are fitted with sensors and actuators. Sensors collect data from the environment and give to gateway where as actuators performs the action (as directed after processing of data). 
+ 
+Gateway 
+The sensors give data to Gateway and here some kind of pre-processing of data is even done. It also acts as a level of security for the network and for the transmitted data. 
+ 
+Cloud 
+The data after being collected is uploaded to cloud. Cloud in simple terms is basically a set of servers connected to internet 24*7. 
+ 
+Analytics 
+The data after being received in the cloud processing is done . Various algorithms are applied here for proper analysis of data (techniques like Machine Learning etc are even applied). 
+ 
+User Interface 
+User end application where user can monitor or control the data."
+What are the fundamental components of IoT?,"Sensors/Devices: Sensors or devices are a key component that helps you to collect live data from the surrounding environment. All this data may have various levels of complexities. It could be a simple temperature monitoring sensor, or it may be in the form of the video feed.
+Connectivity: All the collected data is sent to a cloud infrastructure. The sensors should be connected to the cloud using various mediums of communications. These communication mediums include mobile or satellite networks, Bluetooth, WI-FI, WAN, etc.
+Data Processing: Once that data is collected, and it gets to the cloud, the software product performs processing on the gathered data. This process can be just checking the temperature, reading on devices like AC or heaters. However, it can sometimes also be very complex, like identifying objects, using computer vision on video.
+User Interface: The information needs to be available to the end-user in some way, which can be achieved by triggering alarms on their phones or sending them notification through email or text message. The user sometimes might need an interface which actively checks their IoT system.","Sensors/Devices
+First, sensors or devices help in collecting very minute data from the surrounding environment. All of this collected data can have various degrees of complexities ranging from a simple temperature monitoring sensor or a complex full video feed.
+
+A device can have multiple sensors that can bundle together to do more than just sense things. For example, our phone is a device that has multiple sensors such as GPS, accelerometer, camera but our phone does not simply sense things.
+
+The most rudimentary step will always remain to pick and collect data from the surrounding environment be it a standalone sensor or multiple devices. Connectivity
+Next, that collected data is sent to a cloud infrastructure but it needs a medium for transport.
+
+The sensors can be connected to the cloud through various mediums of communication and transports such as cellular networks, satellite networks, Wi-Fi, Bluetooth, wide-area networks (WAN), low power wide area network and many more.
+
+Every option we choose has some specifications and trade-offs between power consumption, range, and bandwidth. So, choosing the best connectivity option in the IOT system is important. Data Processing
+Once the data is collected and it gets to the cloud, the software performs processing on the acquired data.
+
+This can range from something very simple, such as checking that the temperature reading on devices such as AC or heaters is within an acceptable range. It can sometimes also be very complex, such as identifying objects (such as intruders in your house) using computer vision on video.
+
+But there might be a situation when a user interaction is required, example- what if when the temperature is too high or if there is an intruder in your house? That’s where the user comes into the picture.  User Interface
+Next, the information made available to the end-user in some way. This can achieve by triggering alarms on their phones or notifying through texts or emails.
+
+Also, a user sometimes might also have an interface through which they can actively check in on their IOT system. For example, a user has a camera installed in his house, he might want to check the video recordings and all the feeds through a web server.
+
+However, it’s not always this easy and a one-way street. Depending on the IoT application and complexity of the system, the user may also be able to perform an action that may backfire and affect the system."
+What is IOT?,"Internet of Things (IoT) is a system of interconnected objects, usually called smart devices, through the Internet. The object can be a heart monitor, a remote, or an automobile with built-in sensors. That is objects that have been assigned an IP address and have the capability to collect and transfer data over a network. The objects interact with the external environment with the help of embedded technology, which helps them in taking decisions. Since these devices can now represent themselves digitally. 
+
+In other words “The globally ruling technology acts as a single key to shrinking this whole universe to a tiny globally connected village, whereas IoT comprises just two words that precisely depict its definition.” ","Internet of Things (IoT) is a network of physical objects or people called “things” that are embedded with software, electronics, network, and sensors that allow these objects to collect and exchange data. The goal of IoT is to extend to internet connectivity from standard devices like computer, mobile, tablet to relatively dumb devices like a toaster."
+What is IOT?,"Internet of Things (IoT) is a system of interconnected objects, usually called smart devices, through the Internet. The object can be a heart monitor, a remote, or an automobile with built-in sensors. That is objects that have been assigned an IP address and have the capability to collect and transfer data over a network. The objects interact with the external environment with the help of embedded technology, which helps them in taking decisions. Since these devices can now represent themselves digitally. 
+
+In other words “The globally ruling technology acts as a single key to shrinking this whole universe to a tiny globally connected village, whereas IoT comprises just two words that precisely depict its definition.” ","The term IoT (Internet of Things) was coined by Kevin Ashton in 1999. It is referred to as a network comprised of interconnected physical objects (referred to as ""things"") worldwide that are capable of collecting and exchanging data without human interaction. These devices contain embedded systems (software, electronics, networks, and sensors) that are able to collect data about the surrounding environment, transmit data over a network, respond to remote commands, or take actions based on data collected. There are many IoT devices or things available today, including wearables, implants, vehicles, machinery, smartphones, appliances, computing systems, or any other item that can send and receive data.   "
+What is IOT?,"Internet of Things (IoT) is a system of interconnected objects, usually called smart devices, through the Internet. The object can be a heart monitor, a remote, or an automobile with built-in sensors. That is objects that have been assigned an IP address and have the capability to collect and transfer data over a network. The objects interact with the external environment with the help of embedded technology, which helps them in taking decisions. Since these devices can now represent themselves digitally. 
+
+In other words “The globally ruling technology acts as a single key to shrinking this whole universe to a tiny globally connected village, whereas IoT comprises just two words that precisely depict its definition.” ","Cloud-based storage and computing, Cyber-Physical Systems, and big data networks can all be integrated with IoT. The IoT primarily focuses on expanding internet connectivity from standard devices (such as computers, mobile phones, or tablets) to relatively dumb ones like toasters. It turns old ""dumb"" devices into ""smart"" ones by making them able to transmit data over the internet, facilitating communication with people and other IoT-enabled devices."
+What are the risks in IOT?,"1. Privacy
+IoT devices are vulnerable to hacking. Many IoT devices collect personal information and some of them send this personal information across the network without any encryption. This information can be easily traced and read by hackers. Cloud endpoints could also be used by hackers to attack servers. 
+
+2. Web interface
+Simple default passwords pose a threat when it comes to the user web interface. The use of weak passwords on the web interface may enable hackers to easily identify accounts of users and misuse them. 
+
+Check out the Top Security Courses For IT Professionals
+
+3. Rogue IoT Devices
+Rogue IoT devices are just plain counterfeit malicious devices that are installed in secured networks without authorization. Some examples of rogue IoT devices are Raspberry Pi and WiFi Pineapple. A rogue device either replaces the original IoT device or appears as a member of a group to gather sensitive information. These devices break the network perimeter.
+
+4. Insufficient testing & Lack of updates
+The IoT market is fast-paced, which is why many companies or manufacturers are in a hurry to create and release their products and software without sufficiently testing them. Some of them also fail in providing timely software updates.
+
+Compared to other devices like smartphones, IoT devices continue to be used without the necessary updates, which can enable hackers to steal sensitive information. Thus, sufficient testing and timely updates are critical for maintaining security on IoT devices. They should be updated right after new vulnerabilities are identified. 
+
+5. Lack of user Knowledge & Awareness
+Since IoT is a new technology, people still do not know much about it. One of the biggest security threats related to IoT is the user’s lack of knowledge and awareness of the IoT functionality. This puts everybody at risk.","Privacy: With IoT devices, you will always be concerned regarding data security and privacy. IoT devices are a setup of many connected devices vulnerable to hacking. Many IoT devices collect and transmit personal data over an open network without encryption that may be easy for hackers to access. Hackers may also use cloud endpoints to attack servers.
+
+Reliability: IoT devices have a highly distributed nature. That's why it is difficult to ensure the reliability of IoT systems. Several conditions can affect the components of IoT systems, such as natural disasters, disruptions in cloud services, power outages, and system failures.
+
+Network Connectivity and Control: Network connectivity is a must for IoT devices, but sometimes, it may be challenging, particularly if the connected devices are widely dispersed in remote locations or if bandwidth is severely limited.  Constant and Continuous Power Supply: IoT devices require a constant and continuous power supply to act properly. It may not be easy in some cases.
+
+Insufficient testing and updating: The market of IoT is very new and fast-paced. Many companies or manufacturers rush to start releasing their products and software without doing enough testing and proper updating. Many of them don't provide timely updates, leaving them vulnerable to data theft. IoT devices should be tested thoroughly and updated as soon as new vulnerabilities are identified to maintain security and win customers' trust.
+
+Lack of knowledge and awareness: IoT is a very new and growing technology, so; people do not have proper knowledge or awareness about these devices. It may also act as a security threat to users' confidentiality."
+What are the risks in IOT?,"1. Privacy
+IoT devices are vulnerable to hacking. Many IoT devices collect personal information and some of them send this personal information across the network without any encryption. This information can be easily traced and read by hackers. Cloud endpoints could also be used by hackers to attack servers. 
+
+2. Web interface
+Simple default passwords pose a threat when it comes to the user web interface. The use of weak passwords on the web interface may enable hackers to easily identify accounts of users and misuse them. 
+
+Check out the Top Security Courses For IT Professionals
+
+3. Rogue IoT Devices
+Rogue IoT devices are just plain counterfeit malicious devices that are installed in secured networks without authorization. Some examples of rogue IoT devices are Raspberry Pi and WiFi Pineapple. A rogue device either replaces the original IoT device or appears as a member of a group to gather sensitive information. These devices break the network perimeter.
+
+4. Insufficient testing & Lack of updates
+The IoT market is fast-paced, which is why many companies or manufacturers are in a hurry to create and release their products and software without sufficiently testing them. Some of them also fail in providing timely software updates.
+
+Compared to other devices like smartphones, IoT devices continue to be used without the necessary updates, which can enable hackers to steal sensitive information. Thus, sufficient testing and timely updates are critical for maintaining security on IoT devices. They should be updated right after new vulnerabilities are identified. 
+
+5. Lack of user Knowledge & Awareness
+Since IoT is a new technology, people still do not know much about it. One of the biggest security threats related to IoT is the user’s lack of knowledge and awareness of the IoT functionality. This puts everybody at risk.","Security: IoT technology creates an ecosystem of connected devices. However, during this process, the system may offer little authentication control despite sufficient cybersecurity measures.
+Privacy: The use of IoT, exposes a substantial amount of personal data, in extreme detail, without the user’s active participation. This creates lots of privacy issues.
+Flexibility: There is a huge concern regarding the flexibility of an IoT system. It is mainly regarding integrating with another system as there are many diverse systems involved in the process.
+Complexity: The design of the IoT system is also quite complicated. Moreover, it’s deployment and maintenance also not very easy.
+Compliance: IoT has its own set of rules and regulations. However, because of its complexity, the task of compliance is quite challenging."
+What are the risks in IOT?,"1. Privacy
+IoT devices are vulnerable to hacking. Many IoT devices collect personal information and some of them send this personal information across the network without any encryption. This information can be easily traced and read by hackers. Cloud endpoints could also be used by hackers to attack servers. 
+
+2. Web interface
+Simple default passwords pose a threat when it comes to the user web interface. The use of weak passwords on the web interface may enable hackers to easily identify accounts of users and misuse them. 
+
+Check out the Top Security Courses For IT Professionals
+
+3. Rogue IoT Devices
+Rogue IoT devices are just plain counterfeit malicious devices that are installed in secured networks without authorization. Some examples of rogue IoT devices are Raspberry Pi and WiFi Pineapple. A rogue device either replaces the original IoT device or appears as a member of a group to gather sensitive information. These devices break the network perimeter.
+
+4. Insufficient testing & Lack of updates
+The IoT market is fast-paced, which is why many companies or manufacturers are in a hurry to create and release their products and software without sufficiently testing them. Some of them also fail in providing timely software updates.
+
+Compared to other devices like smartphones, IoT devices continue to be used without the necessary updates, which can enable hackers to steal sensitive information. Thus, sufficient testing and timely updates are critical for maintaining security on IoT devices. They should be updated right after new vulnerabilities are identified. 
+
+5. Lack of user Knowledge & Awareness
+Since IoT is a new technology, people still do not know much about it. One of the biggest security threats related to IoT is the user’s lack of knowledge and awareness of the IoT functionality. This puts everybody at risk.","Privacy: Connected IoT devices are vulnerable to hacking. Many IoT devices collect and transmit personal data over an open network without encryption, making it easy for hackers to access. Hackers may also use cloud endpoints to attack servers.
+Insufficient testing & Outdated product: In a fast-paced market like IoT, many companies or manufacturers rush to start releasing their products and software without doing enough testing. Many of them don't provide timely updates as well. Unlike other devices such as smartphones, IoT devices are not updated, which can leave them vulnerable to data theft. Thus, IoT devices should be tested thoroughly and updated as soon as new vulnerabilities are identified in order to maintain security.
+Lack of knowledge and awareness: Despite being a growing technology, people do not know much about IoT. A major security threat associated with IoT is the user's lack of knowledge and awareness of its capabilities. This poses a threat to all users.
+Network Connectivity: Network connectivity can be challenging for many IoT devices. Particularly if such devices are widely dispersed, in remote locations, or if bandwidth is severely limited.
+Reliability: Given the highly distributed nature of IoT devices, it can be difficult to ensure the reliability of IoT systems. Various conditions can affect the components that make up an IoT system, such as natural disasters, disruptions in cloud services, power outages, and system failures."
