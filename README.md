@@ -13,6 +13,7 @@ https://www.kaggle.com/c/asap-aes/data
 
 ## Architecture Diagram
 
+![Model ADA](https://github.com/aditishaktawat/Automated-Evaluator/assets/146921675/f640ff7d-ccc1-4372-aaba-4cb934f571d8)
 
  
 ## Proposed Model
