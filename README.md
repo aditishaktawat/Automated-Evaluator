@@ -18,13 +18,13 @@ https://www.kaggle.com/c/asap-aes/data
  
 ## Proposed Model
 
-The proposed system consists of data collection and annotation, preprocessing module, similarity measurement module, model training module, results predicting module, machine learning model module, and final result predicting module. First, the inputs are being taken from the user, which consists of keywords, solutions, and answers.
+The proposed system consists of data collection and annotation, preprocessing module, similarity measurement module, model training module, results predicting module, machine learning model module, and final result predicting module. First, the inputs are being taken from the user, which consists of keywords, solutions, and answers.
 The working of the model takes place in following way-
 • Read Dataset: In this step, the dataset being used in the system is read.
 • Preprocessing of the Data: After the dataset is selected, the text is processed to remove extra whitespaces, convert accented characters to ASCII characters, expand contractions, remove special characters, change the case of the text to lowercase.
 • Feature Extraction: Extracting features with high predicting powers will lead to overall better performance and accuracy of the model hence we have tried extracting a lot of features from different domains which will be explained in the further sections.
 • Word Vectorization: After the preprocessing has been done on the data according to requirements, textual data is to be converted in a numerical form because machines only understand numbers and understand them very well.
-• Similarity Measures Techniques: Now, distance measures such as cosine similarity and wmd distance are used to predict the score of the student answers.
+• Similarity Measures Techniques: Now, distance measures such as cosine similarity and wmd distance are used to predict the score of the student answers.
 • Machine Learning Model: Various algorithms like linear regression, svm and random forest are applied on the dataset with some parameters along with predicted score from similarity techniques to generate the final score.
 • Checking Accuracy: Calculate the accuracy of the generated score by comparing it with the human score present in the dataset. Compare and analyze the result.
 
